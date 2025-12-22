@@ -1,0 +1,9 @@
+[package]
+name = "typst-report-template"
+version = "0.1.0"
+entrypoint = "lib.typ"
+description = "A template for writing technical reports with Typst."
+
+[template]
+path = "template"
+entrypoint = "main.typ"
